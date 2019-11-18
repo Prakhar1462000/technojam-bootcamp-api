@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://prakhardev:qwertyuiop@cluster0-pi39b.mongodb.net/test?retryWrites=true&w=majority",
+    "secret":"nothing"
+}
