@@ -22,6 +22,10 @@ const projectSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    discussion: {
+        type: String,
+        required: false
+    },
     maintainers: {
         type: String,
     },
