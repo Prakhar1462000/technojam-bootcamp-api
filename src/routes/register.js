@@ -23,6 +23,7 @@ router.post('/', async (req, res) => {
 			uid: new Date().getTime(),
 			name,
 			email,
+			age,
 			password
 		});
 
